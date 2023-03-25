@@ -1,2 +1,2 @@
 # airbnb_clone
-airbnb clone grup prjoesi
+airbnb clone grup projesi
